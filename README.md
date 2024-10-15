@@ -4,3 +4,4 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 1 - Find the torsional angle ](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem)
 * [ Day 2 - Any and All queries ](https://www.hackerrank.com/challenges/any-or-all/problem)
 * [ Day 3 - Introduction to Regex ](https://www.hackerrank.com/challenges/introduction-to-regex/problem)
+* [ Day 4 - More regex ](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem)
