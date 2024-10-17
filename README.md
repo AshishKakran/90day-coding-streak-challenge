@@ -6,3 +6,5 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 3 - Introduction to Regex ](https://www.hackerrank.com/challenges/introduction-to-regex/problem)
 * [ Day 4 - More regex ](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem)
 * [ Day 5 - Map and Lambda ](https://www.hackerrank.com/challenges/map-and-lambda-expression)
+* [ Day 6 - Numpy arrays ](https://www.hackerrank.com/challenges/np-arrays)
+
