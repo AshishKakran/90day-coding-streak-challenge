@@ -8,3 +8,4 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 5 - Map and Lambda ](https://www.hackerrank.com/challenges/map-and-lambda-expression)
 * [ Day 6 - Numpy arrays ](https://www.hackerrank.com/challenges/np-arrays)
 * [ Day 7 - Reshaping numpy arrays ](https://www.hackerrank.com/challenges/np-shape-reshape)
+* [ Day 8 - More on numpy arrays](../day8)
