@@ -11,3 +11,4 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 8 - More on numpy arrays](../day8)
 * [ Day 9 - Numpy arrays finale ](../day9)
 * [ Day 10 - Algorithms warmup ] (../day10)
+* [ Day 11 - comparing languages](../day11)
