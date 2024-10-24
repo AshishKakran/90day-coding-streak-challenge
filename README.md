@@ -10,5 +10,6 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 7 - Reshaping numpy arrays ](https://www.hackerrank.com/challenges/np-shape-reshape)
 * [ Day 8 - More on numpy arrays](../day8)
 * [ Day 9 - Numpy arrays finale ](../day9)
-* [ Day 10 - Algorithms warmup ] (../day10)
+* [ Day 10 - Algorithms warmup ](../day10)
 * [ Day 11 - comparing languages](../day11)
+* [ Day 12 - Generator and Iterators](https://www.hackerrank.com/challenges/apple-and-orange)
