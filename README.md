@@ -13,3 +13,4 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 10 - Algorithms warmup ](../day10)
 * [ Day 11 - comparing languages](../day11)
 * [ Day 12 - Generator and Iterators](https://www.hackerrank.com/challenges/apple-and-orange)
+* [ Day 13 - Precision and string format](https://www.hackerrank.com/challenges/plus-minus)
