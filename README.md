@@ -17,3 +17,5 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 14 - Closed form solutions ](https://www.hackerrank.com/challenges/kangaroo)
 * [ Day 15 - Counting frequencies ](https://www.hackerrank.com/challenges/migratory-birds)
 * [ Day 16 - Min max sum ](https://www.hackerrank.com/challenges/mini-max-sum)
+* [ Day 17 - Between Two sets ](https://www.hackerrank.com/challenges/between-two-sets)
+
