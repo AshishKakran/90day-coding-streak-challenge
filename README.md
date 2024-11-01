@@ -19,3 +19,4 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 16 - Min max sum ](https://www.hackerrank.com/challenges/mini-max-sum)
 * [ Day 17 - Between Two sets ](https://www.hackerrank.com/challenges/between-two-sets)
 * [ Day 18 - Breaking the record](https://www.hackerrank.com/challenges/breaking-best-and-worst-records)
+* [ Day 19 - Divisible sum pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)
