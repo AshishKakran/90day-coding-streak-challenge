@@ -21,3 +21,4 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 18 - Breaking the record](https://www.hackerrank.com/challenges/breaking-best-and-worst-records)
 * [ Day 19 - Divisible sum pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)
 * [ Day 20 - Subarray division](https://www.hackerrank.com/challenges/the-birthday-bar)
+* [ Day 21 - Day of the programmer](https://www.hackerrank.com/challenges/day-of-the-programmer)
