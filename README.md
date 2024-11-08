@@ -25,3 +25,4 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 22 - Bill divison](https://www.hackerrank.com/challenges/bon-appetit)
 * [ Day 23 - Counting pairs](https://www.hackerrank.com/challenges/sock-merchant)
 * [ Day 24 - Staircase](https://www.hackerrank.com/challenges/staircase)
+* [ Day 25  - time conversion](https://www.hackerrank.com/challenges/time-conversion)
