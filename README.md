@@ -28,3 +28,4 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 25  - time conversion](https://www.hackerrank.com/challenges/time-conversion)
 * [ Day 26 - Counting valleys](https://www.hackerrank.com/challenges/counting-valleys)
 * [ Day 27 - Drawing book ](https://www.hackerrank.com/challenges/drawing-book)
+* [ Day 28 - Electronics shop](https://www.hackerrank.com/challenges/electronics-shop)
