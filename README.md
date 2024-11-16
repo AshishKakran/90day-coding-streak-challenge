@@ -32,3 +32,4 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 29 - Utopian tree](https://www.hackerrank.com/challenges/utopian-tree)
 * [ Day 30 - Picking numbers](https://www.hackerrank.com/challenges/picking-numbers)
 * [ Day 31 - 5 problems a day](../day31)
+* [ Day 32 - 5 easy problems ](../day32)
