@@ -33,3 +33,4 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 30 - Picking numbers](https://www.hackerrank.com/challenges/picking-numbers)
 * [ Day 31 - 5 problems a day](./day31)
 * [ Day 32 - 5 problems on modulo operator ](./day32)
+* [ Day 33 - Squares within  a range](https://www.hackerrank.com/challenges/sherlock-and-squares)
