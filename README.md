@@ -36,3 +36,4 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 33 - Squares within  a range](https://www.hackerrank.com/challenges/sherlock-and-squares)
 * [ Day 34 - Library fine](https://www.hackerrank.com/challenges/library-fine)
 * [ Day 35 - cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks)
+* [ Day 36 - Repeated String](https://www.hackerrank.com/challenges/repeated-string)
