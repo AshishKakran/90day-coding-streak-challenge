@@ -39,3 +39,4 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 36 - Repeated String](https://www.hackerrank.com/challenges/repeated-string)
 * [ Day 37 - Equalize the array](https://www.hackerrank.com/challenges/equality-in-a-array)
 * [ Day 38 - Taum and Bday](https://www.hackerrank.com/challenges/taum-and-bday)
+* [ Day 39 - Chocolate Feast ](https://www.hackerrank.com/challenges/chocolate-feast)
