@@ -41,3 +41,4 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 38 - Taum and Bday](https://www.hackerrank.com/challenges/taum-and-bday)
 * [ Day 39 - Chocolate Feast ](https://www.hackerrank.com/challenges/chocolate-feast)
 * [ Day 40 - Kaprekar Numbers ](https://www.hackerrank.com/challenges/kaprekar-numbers)
+* [ Day 41 - minimum distance ](https://www.hackerrank.com/challenges/minimum-distances)
