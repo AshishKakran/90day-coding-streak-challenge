@@ -42,3 +42,4 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 39 - Chocolate Feast ](https://www.hackerrank.com/challenges/chocolate-feast)
 * [ Day 40 - Kaprekar Numbers ](https://www.hackerrank.com/challenges/kaprekar-numbers)
 * [ Day 41 - minimum distance ](https://www.hackerrank.com/challenges/minimum-distances)
+* [ Day 42 - Halloween Sale ](https://www.hackerrank.com/challenges/halloween-sale)
