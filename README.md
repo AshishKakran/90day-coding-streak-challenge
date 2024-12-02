@@ -43,3 +43,4 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 40 - Kaprekar Numbers ](https://www.hackerrank.com/challenges/kaprekar-numbers)
 * [ Day 41 - minimum distance ](https://www.hackerrank.com/challenges/minimum-distances)
 * [ Day 42 - Halloween Sale ](https://www.hackerrank.com/challenges/halloween-sale)
+* [ Day 43 - Cavity Map](https://www.hackerrank.com/challenges/cavity-map)
