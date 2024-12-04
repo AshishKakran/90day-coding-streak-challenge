@@ -45,3 +45,4 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 42 - Halloween Sale ](https://www.hackerrank.com/challenges/halloween-sale)
 * [ Day 43 - Cavity Map](https://www.hackerrank.com/challenges/cavity-map)
 * [ Day 44 - Camel Case](https://www.hackerrank.com/challenges/camelcase)
+* [ Day 45 - Beautfiul Triplets](https://www.hackerrank.com/challenges/beautiful-triplets)
