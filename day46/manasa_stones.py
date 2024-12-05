@@ -19,7 +19,6 @@ from itertools import combinations_with_replacement
 
 def stones(n, a, b):
     # Write your code here
-    x = []
     x = [ sum(i) for i in combinations_with_replacement([a,b], n -1 )]
         
         
