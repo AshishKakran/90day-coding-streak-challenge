@@ -48,3 +48,4 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 45 - Beautfiul Triplets](https://www.hackerrank.com/challenges/beautiful-triplets)
 * [ Day 46 More implementation problems](./day46)
 * [ Day 47 - Happy ladybugs ](https://www.hackerrank.com/challenges/happy-ladybugs)
+* [ Day 48 - Some string problems](./day48)
