@@ -46,6 +46,7 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 43 - Cavity Map](https://www.hackerrank.com/challenges/cavity-map)
 * [ Day 44 - Camel Case](https://www.hackerrank.com/challenges/camelcase)
 * [ Day 45 - Beautfiul Triplets](https://www.hackerrank.com/challenges/beautiful-triplets)
-* [ Day 46 More implementation problems](./day46)
+* [ Day 46 - More implementation problems](./day46)
 * [ Day 47 - Happy ladybugs ](https://www.hackerrank.com/challenges/happy-ladybugs)
 * [ Day 48 - Some string problems](./day48)
+* [ Day 49 - Revisiting Regex ](./day49)
