@@ -51,4 +51,5 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 48 - Some string problems](./day48)
 * [ Day 49 - Revisiting Regex ](./day49)
 * [ Day 50 - More regex ](./day50)
+* [ Day 51 - Easy problems on Regex](./day51)
 
