@@ -53,3 +53,4 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 50 - More regex ](./day50)
 * [ Day 51 - Easy problems on Regex](./day51)
 * [ Day 52 - Cascade_specificity_inheritance in CSS ](./day52_navigation.html)
+* [ Day 53 - Some numpy array problems](./day53)
