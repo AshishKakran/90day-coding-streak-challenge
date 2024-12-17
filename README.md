@@ -56,3 +56,4 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 53 - Some numpy array problems](./day53)
 * [ Day 54 - Strongest password ](https://www.hackerrank.com/challenges/strong-password)
 * [ Day 55 - Reduce string ](https://www.hackerrank.com/challenges/reduced-string)
+* [ Day 56 - iterators ](hackerrank.com/challenges/iterables-and-iterators)
