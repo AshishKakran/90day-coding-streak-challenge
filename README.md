@@ -60,3 +60,4 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 57 - Caesar Cypher](https://www.hackerrank.com/challenges/caesar-cipher-1)
 * [ Day 58 - Relative units in CSS](./day58_relUnits.html)
 * [ Day 59 - Separate the numbers ](https://www.hackerrank.com/challenges/separate-the-numbers)
+* [ Day 60 - Two strings ](https://www.hackerrank.com/challenges/two-strings)
