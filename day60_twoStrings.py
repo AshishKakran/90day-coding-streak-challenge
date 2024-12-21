@@ -19,15 +19,7 @@ import sys
 def twoStrings(s1, s2):
     # Write your code here
     
-    r = re.compile(r'(\w)')
-    s1 = set(filter(None,r.split(s1)))
-    s2 = set(filter(None,r.split(s2)))
-    
-    if s1 & s2:
-        return "YES"
-         
-    return "NO"
-    
+    return "YES" if set(s1) & set(s2) else "NO"
     
     
 
