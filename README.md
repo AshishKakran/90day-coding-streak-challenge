@@ -63,3 +63,4 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 60 - Two strings ](https://www.hackerrank.com/challenges/two-strings)
 * [ Day 61 - Funny strings](https://www.hackerrank.com/challenges/funny-string)
 * [ Day 62 - Ice cream parlor](https://www.hackerrank.com/challenges/icecream-parlor)
+* [ Day 63 - Insertion sort part 1](https://www.hackerrank.com/challenges/insertionsort1)
