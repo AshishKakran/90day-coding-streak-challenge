@@ -66,3 +66,4 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 63 - Insertion sort part 1](https://www.hackerrank.com/challenges/insertionsort1)
 * [ Day 64 - Insertion sort part 2](https://www.hackerrank.com/challenges/insertionsort2)
 * [ Day 65 - QuickSort](./day65_QuickSort.py)
+* [ Day 66 - CountingSort](https://www.hackerrank.com/challenges/countingsort2/problem)
