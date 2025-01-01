@@ -69,3 +69,4 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 66 - CountingSort](https://www.hackerrank.com/challenges/countingsort2/problem)
 * [ Day 67 - Big Sorting ](https://www.hackerrank.com/challenges/big-sorting)
 * [ Day 68 - Sorting&Searching](./day68)
+* [ Day 69 - Some Greedy problems](./day69)
