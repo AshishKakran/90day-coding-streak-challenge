@@ -70,3 +70,4 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 67 - Big Sorting ](https://www.hackerrank.com/challenges/big-sorting)
 * [ Day 68 - Sorting&Searching](./day68)
 * [ Day 69 - Some Greedy problems](./day69)
+* [ Day 70 - Continue being greedy](./day70)
