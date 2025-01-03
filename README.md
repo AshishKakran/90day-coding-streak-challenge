@@ -71,3 +71,4 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 68 - Sorting&Searching](./day68)
 * [ Day 69 - Some Greedy problems](./day69)
 * [ Day 70 - Continue being greedy](./day70)
+* [ Day 71 - Max perimeter triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle)
