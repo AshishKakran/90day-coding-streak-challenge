@@ -72,3 +72,4 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 69 - Some Greedy problems](./day69)
 * [ Day 70 - Continue being greedy](./day70)
 * [ Day 71 - Max perimeter triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle)
+* [ Day 72 - Priyanka and toys](https://www.hackerrank.com/challenges/priyanka-and-toys)
