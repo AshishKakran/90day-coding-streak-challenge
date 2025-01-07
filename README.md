@@ -74,3 +74,4 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 71 - Max perimeter triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle)
 * [ Day 72 - Priyanka and toys](https://www.hackerrank.com/challenges/priyanka-and-toys)
 * [ Day 73 - Permuting Arrays](https://www.hackerrank.com/challenges/two-arrays)
+* [ Day 74 - Mark and toys](https://www.hackerrank.com/challenges/mark-and-toys)
