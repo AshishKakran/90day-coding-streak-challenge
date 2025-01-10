@@ -77,3 +77,4 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 74 - Mark and toys](https://www.hackerrank.com/challenges/mark-and-toys)
 * [ Day 75 - Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist)
 * [ Day 76 - Jim and the orders](https://www.hackerrank.com/challenges/jim-and-the-orders)
+* [ Day 77 - Sherlock and the Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast)
