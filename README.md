@@ -79,3 +79,4 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 76 - Jim and the orders](https://www.hackerrank.com/challenges/jim-and-the-orders)
 * [ Day 77 - Sherlock and the Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast)
 * [ Day 78 - Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation)
+* [ Day 79 - Beautiful Pairs](https://www.hackerrank.com/challenges/beautiful-pairs)
