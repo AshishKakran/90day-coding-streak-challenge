@@ -82,3 +82,4 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 79 - Beautiful Pairs](https://www.hackerrank.com/challenges/beautiful-pairs)
 * [ Day 80 - Recursive digit sum](https://www.hackerrank.com/challenges/recursive-digit-sum)
 * [ Day 81 - Validating UIDs](https://www.hackerrank.com/challenges/validating-uid)
+* [ Day 82 - Validating Credit Card nums](https://www.hackerrank.com/challenges/validating-credit-card-number)
