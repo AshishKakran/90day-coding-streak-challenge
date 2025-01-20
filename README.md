@@ -85,3 +85,4 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 82 - Validating Credit Card nums](https://www.hackerrank.com/challenges/validating-credit-card-number)
 * [ Day 83 - Smart number](https://www.hackerrank.com/challenges/smart-number)
 * [ Day 84 - XML score ](https://www.hackerrank.com/challenges/xml-1-find-the-score)
+* [ Day 85 - XML Depth](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth)
