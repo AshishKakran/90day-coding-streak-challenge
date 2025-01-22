@@ -87,3 +87,4 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 84 - XML score ](https://www.hackerrank.com/challenges/xml-1-find-the-score)
 * [ Day 85 - XML Depth](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth)
 * [ Day 86 - Gemstones](https://www.hackerrank.com/challenges/gem-stones)
+* [ Day 87 - Jumping on clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds)
