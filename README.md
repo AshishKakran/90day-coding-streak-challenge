@@ -90,3 +90,4 @@ For humanity's last hope against the LLM's takeover of the world, Ashish must ma
 * [ Day 87 - Jumping on clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds)
 * [ Day 88 - Alternating characters](https://www.hackerrank.com/challenges/alternating-characters)
 * [ Day 89 - Beautiful Strings](https://www.hackerrank.com/challenges/beautiful-binary-string)
+* [ Day 90 - Lisa's workbook](https://www.hackerrank.com/challenges/lisa-workbook)
